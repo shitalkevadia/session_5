@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="24791" started-at="2022-03-09T13:40:47 HST" finished-at="2022-03-09T13:41:11 HST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="24791" started-at="2022-03-09T13:40:47 HST" finished-at="2022-03-09T13:41:11 HST">
+      <class name="variousConcepts.CRMTest">
+        <test-method status="PASS" signature="readConfig()[pri:0, instance:variousConcepts.CRMTest@5bb21b69]" name="readConfig" is-config="true" duration-ms="11" started-at="2022-03-09T13:40:47 HST" finished-at="2022-03-09T13:40:47 HST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readConfig -->
+        <test-method status="PASS" signature="init()[pri:0, instance:variousConcepts.CRMTest@5bb21b69]" name="init" is-config="true" duration-ms="4684" started-at="2022-03-09T13:40:47 HST" finished-at="2022-03-09T13:40:51 HST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="loginTest()[pri:1, instance:variousConcepts.CRMTest@5bb21b69]" name="loginTest" duration-ms="2870" started-at="2022-03-09T13:40:51 HST" finished-at="2022-03-09T13:40:54 HST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:variousConcepts.CRMTest@5bb21b69]" name="tearDown" is-config="true" duration-ms="864" started-at="2022-03-09T13:40:54 HST" finished-at="2022-03-09T13:40:55 HST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="init()[pri:0, instance:variousConcepts.CRMTest@5bb21b69]" name="init" is-config="true" duration-ms="3323" started-at="2022-03-09T13:40:55 HST" finished-at="2022-03-09T13:40:58 HST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="addContact()[pri:2, instance:variousConcepts.CRMTest@5bb21b69]" name="addContact" duration-ms="5021" started-at="2022-03-09T13:40:58 HST" finished-at="2022-03-09T13:41:03 HST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addContact -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:variousConcepts.CRMTest@5bb21b69]" name="tearDown" is-config="true" duration-ms="841" started-at="2022-03-09T13:41:03 HST" finished-at="2022-03-09T13:41:04 HST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="init()[pri:0, instance:variousConcepts.CRMTest@5bb21b69]" name="init" is-config="true" duration-ms="3235" started-at="2022-03-09T13:41:04 HST" finished-at="2022-03-09T13:41:08 HST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="loginTestNeg()[pri:3, instance:variousConcepts.CRMTest@5bb21b69]" name="loginTestNeg" duration-ms="3016" started-at="2022-03-09T13:41:08 HST" finished-at="2022-03-09T13:41:11 HST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTestNeg -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:variousConcepts.CRMTest@5bb21b69]" name="tearDown" is-config="true" duration-ms="869" started-at="2022-03-09T13:41:11 HST" finished-at="2022-03-09T13:41:11 HST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- variousConcepts.CRMTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
